@@ -1,0 +1,32 @@
+
+section{
+    background-color: #f5f5dd;
+    width: 400px;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+   
+}
+
+.div1 {
+    background-color: rgba(0,0,0)
+
+}
+
+.div2 {
+    background-color: rgba(0,0,0,0.80)
+}
+
+.div3 {
+    background-color: rgba(0,0,0,0.40)
+}
+
+.div4 {
+    background-color: rgba(0,0,0,0.20)
+}
