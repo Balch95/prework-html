@@ -1,0 +1,14 @@
+
+section {
+    color: white;
+    background-color: #808080;
+    width: 200px;
+    padding: 5px;
+}
+
+div {
+    background-color: #fea500;
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+}
