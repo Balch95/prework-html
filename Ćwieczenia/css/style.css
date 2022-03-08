@@ -1,0 +1,28 @@
+h3 {
+    color: blue;
+}
+
+#aboutus {
+    background-color: aqua;
+}
+
+.skill {
+    color: brown;
+    font-style: italic;
+}
+
+p{
+    background-color: yellow;
+}
+
+li, p, footer{
+    margin-bottom: 30px;
+}
+
+nav {
+    background-color: darkolivegreen;
+}
+
+section > a{
+    color: crimson;
+}
