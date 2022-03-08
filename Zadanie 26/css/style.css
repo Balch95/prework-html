@@ -1,0 +1,13 @@
+p{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.op{
+    background-color: blue;
+}
+
+.fp{
+    opacity: 0.5;
+}
