@@ -1,0 +1,35 @@
+
+body{
+    background-color: burlywood;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    color: green;
+}
+
+.p1{
+    color: red;
+}
+
+.p2{
+    color: darkgoldenrod;
+}
+
+.li1{
+    color: #00ad12;
+}
+
+.li2{
+    color: #aaad12;
+}
+
+.li3{
+    color: #0fffa2;
+}
+.li4{
+    color: #777a12;
+}
