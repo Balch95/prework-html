@@ -7,6 +7,6 @@ function a(num1, num2){
     }
 }
  
-a(10, 1)
+ console.log(a(21,21));
 
 
