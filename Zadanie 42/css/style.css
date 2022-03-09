@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(#FFF89A, #FFB2A6);
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+p{
+    color: rebeccapurple;
+    text-align: center;
+
+}
+
+button{
+    background-color: orange;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+
