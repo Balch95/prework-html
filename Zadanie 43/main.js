@@ -24,4 +24,4 @@ function dzialania(num1, num2){
    
 }
 
-console.log(dzialania(55,3))
+dzialania(55,3)
